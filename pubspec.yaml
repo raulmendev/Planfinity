@@ -1,0 +1,72 @@
+name: planfinity
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/planfinity/assets/images/rectangle3.png
+    - packages/planfinity/assets/images/line1.svg
+    - packages/planfinity/assets/images/vector.svg
+    - packages/planfinity/assets/images/image11.png
+    - packages/planfinity/assets/images/rectangle5.png
+    - packages/planfinity/assets/images/rectangle9.png
+    - packages/planfinity/assets/images/union.png
+    - packages/planfinity/assets/images/line2.svg
+    - packages/planfinity/assets/images/rectangle15.png
+    - packages/planfinity/assets/images/rectangle16.png
+    - packages/planfinity/assets/images/rectangle14.png
+    - packages/planfinity/assets/images/ellipse1.png
+    - packages/planfinity/assets/images/ellipse2.png
+    - packages/planfinity/assets/images/unsplashawwl29vx7y.png
+    - packages/planfinity/assets/images/webcapture115202220234wwwdubaivisasco1.png
+    - packages/planfinity/assets/images/image8.png
+    - packages/planfinity/assets/images/rectangle12.png
+    - packages/planfinity/assets/images/ellipse3.png
+    - packages/planfinity/assets/images/rectangle13.png
+    - packages/planfinity/assets/images/ellipse4.png
+    - packages/planfinity/assets/images/ellipse5.png
+    - packages/planfinity/assets/images/ellipse6.png
+    - packages/planfinity/assets/images/ellipse7.png
+    - packages/planfinity/assets/images/ellipse8.png
+    - packages/planfinity/assets/images/ellipse9.png
+    - packages/planfinity/assets/images/ellipse10.png
+    - packages/planfinity/assets/images/ellipse12.png
+    - packages/planfinity/assets/images/ellipse11.png
+    - packages/planfinity/assets/images/line3.svg
+    - packages/planfinity/assets/images/webcapture1152022202117wwwdubaivisasco1.png
+    - packages/planfinity/assets/images/rectangle27.png
+    - packages/planfinity/assets/images/rectangle4.png
+    - packages/planfinity/assets/images/image2.png
+    - packages/planfinity/assets/images/image3.png
+    - packages/planfinity/assets/images/coolicon.svg
+    - packages/planfinity/assets/images/rectangle60.png
+    - packages/planfinity/assets/images/frame36.svg
+    - packages/planfinity/assets/images/frame37.svg
+    - packages/planfinity/assets/images/line4.svg
+    - packages/planfinity/assets/images/line5.svg
+    - packages/planfinity/assets/images/line6.svg
+    - packages/planfinity/assets/images/line7.svg
+    - packages/planfinity/assets/images/line8.svg
+    - packages/planfinity/assets/images/line9.svg
+    - packages/planfinity/assets/images/line10.svg
+    - packages/planfinity/assets/images/image5.png
+    - packages/planfinity/assets/images/image6.png
+    - packages/planfinity/assets/images/rectangle6.png
+    - packages/planfinity/assets/images/image7.png
+    - packages/planfinity/assets/images/planfinitylogo1.png
+    - packages/planfinity/assets/images/image1.png
+    - packages/planfinity/assets/images/planfinitylogowhite1.png
