@@ -1,0 +1,33 @@
+name: planfinity2
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/planfinity2/assets/images/rectangle3.png
+    - packages/planfinity2/assets/images/line1.svg
+    - packages/planfinity2/assets/images/vector.svg
+    - packages/planfinity2/assets/images/image11.png
+    - packages/planfinity2/assets/images/rectangle5.png
+    - packages/planfinity2/assets/images/rectangle9.png
+    - packages/planfinity2/assets/images/union.png
+    - packages/planfinity2/assets/images/line2.svg
+    - packages/planfinity2/assets/images/rectangle15.png
+    - packages/planfinity2/assets/images/rectangle16.png
+    - packages/planfinity2/assets/images/rectangle14.png
+    - packages/planfinity2/assets/images/ellipse1.png
+    - packages/planfinity2/assets/images/ellipse2.png
+    - packages/planfinity2/assets/images/unsplashawwl29vx7y.png
